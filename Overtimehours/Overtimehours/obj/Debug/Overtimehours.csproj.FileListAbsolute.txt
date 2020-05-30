@@ -1,0 +1,13 @@
+C:\Users\Erik\Desktop\Overtimehours\Overtimehours\bin\Debug\Overtimehours.exe.config
+C:\Users\Erik\Desktop\Overtimehours\Overtimehours\bin\Debug\Overtimehours.exe
+C:\Users\Erik\Desktop\Overtimehours\Overtimehours\bin\Debug\Overtimehours.pdb
+C:\Users\Erik\Desktop\Overtimehours\Overtimehours\obj\Debug\Overtimehours.csprojResolveAssemblyReference.cache
+C:\Users\Erik\Desktop\Overtimehours\Overtimehours\obj\Debug\Overtimehours.exe
+C:\Users\Erik\Desktop\Overtimehours\Overtimehours\obj\Debug\Overtimehours.pdb
+I:\work\Eriks\lenovo\work\Overtimehours\Overtimehours\bin\Debug\Overtimehours.exe.config
+I:\work\Eriks\lenovo\work\Overtimehours\Overtimehours\bin\Debug\Overtimehours.exe
+I:\work\Eriks\lenovo\work\Overtimehours\Overtimehours\bin\Debug\Overtimehours.pdb
+I:\work\Eriks\lenovo\work\Overtimehours\Overtimehours\obj\Debug\Overtimehours.csprojAssemblyReference.cache
+I:\work\Eriks\lenovo\work\Overtimehours\Overtimehours\obj\Debug\Overtimehours.csproj.CoreCompileInputs.cache
+I:\work\Eriks\lenovo\work\Overtimehours\Overtimehours\obj\Debug\Overtimehours.exe
+I:\work\Eriks\lenovo\work\Overtimehours\Overtimehours\obj\Debug\Overtimehours.pdb
